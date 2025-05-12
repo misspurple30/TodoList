@@ -21,8 +21,8 @@ Une application simple de liste de tâches (todo-list) créée avec Next.js, Rea
 
 1. Clonez le dépôt :
    \`\`\`bash
-   git clone https://github.com/votre-username/todo-list.git
-   cd todo-list
+   git clone git@github.com:misspurple30/TodoList.git
+   cd TodoList
    \`\`\`
 
 2. Installez les dépendances :
