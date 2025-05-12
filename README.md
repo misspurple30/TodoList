@@ -5,8 +5,9 @@ Une application simple de liste de tâches (todo-list) créée avec Next.js, Rea
 ## Fonctionnalités
 
 - Ajouter une tâche
-- Afficher la liste des tâches avec leur statut (faite / non faite)
+- Afficher la liste des tâches 
 - Marquer une tâche comme faite / non faite
+- Modifier une tâche
 - Supprimer une tâche
 - Sauvegarde dans le navigateur (localStorage)
 
@@ -43,20 +44,13 @@ Une application simple de liste de tâches (todo-list) créée avec Next.js, Rea
 
 ## Déploiement
 
-Cette application peut être facilement déployée sur Vercel :
+si dessous le lien pour la démo :
 
-1. Créez un compte sur [Vercel](https://vercel.com) si vous n'en avez pas déjà un
-2. Connectez votre dépôt GitHub à Vercel
-3. Suivez les instructions pour déployer votre application
-
-## Structure du projet
-
-- `app/page.tsx` : Composant principal de l'application
-- `components/ui/` : Composants UI réutilisables (boutons, inputs, etc.)
+   https://todo-list-misspurple30s-projects.vercel.app/
 
 ## Technologies utilisées
 
-- Next.js 14
-- React 18
+- Next.js 
+- React 
 - Tailwind CSS
 - shadcn/ui (composants)
