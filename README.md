@@ -1,6 +1,6 @@
 # Todo List Application
 
-Une application simple de liste de tâches (todo-list) créée avec Next.js, React et Tailwind CSS.
+Une application simple de liste de tâches (todo-list) créée avec Next.js et Tailwind CSS.
 
 ## Fonctionnalités
 
@@ -52,6 +52,5 @@ si dessous le lien pour la démo :
 ## Technologies utilisées
 
 - Next.js 
-- React 
 - Tailwind CSS
 - shadcn/ui (composants)
